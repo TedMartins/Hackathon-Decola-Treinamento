@@ -1,0 +1,21 @@
+body {
+  background: #222;
+  color: #eee;
+  font-family: 'Segoe UI', Tahoma, sans-serif;
+}
+
+img {
+  border-radius: 50%;
+}
+
+ul {
+  list-style-type: none;
+}
+
+li {
+  padding: 1rem; 
+}
+
+span {
+  padding: 1rem;
+}
